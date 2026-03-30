@@ -6,9 +6,7 @@ This project demonstrates the use of React concepts like state management, side 
 
 ---
 
-## Live Demo - react-quiz-app-red-six.vercel.app
-
-
+## Live Demo - (https://react-quiz-app-red-six.vercel.app/)
 
 ## Features
 
